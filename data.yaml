@@ -1,0 +1,13 @@
+train: ../../../../Synapsis AI Engineer/train
+val: ../../../../Synapsis AI Engineer/train
+test: ../../../../Synapsis AI Engineer/train
+
+nc: 6
+names: ['Goggles', 'boots', 'gloves', 'helmet', 'mask', 'vest']
+
+roboflow:
+  workspace: nithesh-sanil-ppthn
+  project: ppe-detection-sjidl
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/nithesh-sanil-ppthn/ppe-detection-sjidl/dataset/2
